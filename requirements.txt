@@ -1,0 +1,6 @@
+numpy
+torchlibrosa
+numba==0.48
+librosa
+h5py
+matplotlib
