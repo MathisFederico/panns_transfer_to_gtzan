@@ -4,5 +4,9 @@
 *.hdf5
 *.pyc
 __pycache__
-*venv*
+*env*
 *vscode
+datasets
+models
+*.log
+features
